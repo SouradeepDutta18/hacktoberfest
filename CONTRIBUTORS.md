@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Souradeep Dutta](https://github.com/itepifanio)
+- Place: Kolkata, India
+- Bio: Web developer, Python, C++, C, 
+- Github: [ SouradeepDutta18 ](https://github.com/SouradeepDutta18)
